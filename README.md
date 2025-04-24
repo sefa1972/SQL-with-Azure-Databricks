@@ -40,4 +40,8 @@ SELECT ProductID, ProductName, Category FROM retail_db.products;
 ### Clean Up
 After finishing, stop your SQL Warehouse in the Databricks portal to avoid extra costs.
 
+## 👤 Author >>  Sefa Öztürk
 
+IT Trainee | Azure Data Engineer in progress
+
+📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972
