@@ -1,4 +1,4 @@
-### SQL with Azure Databricks Lab
+### SQL with Azure Databricks
 This lab provides a hands-on introduction to using SQL in Azure Databricks. You'll learn how to create a SQL Warehouse, define databases and tables using Delta Lake, and visualize data with dashboards—all within the Databricks environment.
 
 ### Prerequisites
