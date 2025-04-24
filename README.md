@@ -23,8 +23,11 @@ Build and publish a dashboard
 Open Azure Cloud Shell in PowerShell mode and run:
 
 rm -r mslearn-databricks -f
+
 git clone https://github.com/MicrosoftLearning/mslearn-databricks
+
 cd mslearn-databricks
+
 ./setup.ps1
 
 ℹ️ The script provisions a Premium-tier Azure Databricks workspace in a region with available compute quota.
